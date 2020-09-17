@@ -1,2 +1,8 @@
 # Ark-Ragnarok-Spawn-Table
-Download all the files, then open the .html ones in your browser.
+These maps denote the spawn regions in Ragnarok for ARK: Survival Evolved.
+
+## How to Use
+Download all the files to your local drive, then open the .html ones in your browser.
+
+## Credits
+Data pulled from the Ark Fandom/Wiki page. Source: https://ark.gamepedia.com/Spawn_Map_(Ragnarok)
