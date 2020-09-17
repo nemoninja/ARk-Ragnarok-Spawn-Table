@@ -1,0 +1,2 @@
+#bodyContent .infobox-imagearea .animated{display:inline-flex; 
+align-items:center}#bodyContent .animated > *:not(.animated-active),#bodyContent .animated > .animated-subframe > *:not(.animated-active){display:none }#bodyContent span.animated,#bodyContent span.animated.animated-visible > *,#bodyContent span.animated.animated-visible > .animated-subframe > *{display:inline-block}#bodyContent div.animated.animated-visible > *,#bodyContent div.animated.animated-visible > .animated-subframe > *{display:block}
