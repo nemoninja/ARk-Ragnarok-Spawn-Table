@@ -1,4 +1,4 @@
-# Ark-Ragnarok-Spawn-Table
+# Ark-Ragnarok-Spawn-Map
 These maps denote the spawn regions in Ragnarok for ARK: Survival Evolved.
 
 ## How to Use
